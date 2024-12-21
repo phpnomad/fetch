@@ -1,0 +1,30 @@
+{
+    "name": "phpnomad/fetch",
+    "description": "Client-side HTTP requests and strategies.",
+    "type": "library",
+    "homepage": "https://github.com/phpnomad/core",
+    "readme": "README.md",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPNomad\\Fetch\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Standiford",
+            "email": "alex@standiford.us"
+        }
+    ],
+    "require": {
+        "phpnomad/http": "^1.0"
+    },
+    "require-dev": {
+        "phpnomad/tests": "^0.1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
