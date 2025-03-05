@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPNomad\Fetch\Models\Models;
+namespace PHPNomad\Fetch\Models;
 
 final class FetchPayload
 {
