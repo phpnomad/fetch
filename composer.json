@@ -1,6 +1,7 @@
 {
     "name": "phpnomad/fetch",
     "description": "Client-side HTTP requests and strategies.",
+    "version": "1.0.1",
     "type": "library",
     "homepage": "https://github.com/phpnomad/core",
     "readme": "README.md",
