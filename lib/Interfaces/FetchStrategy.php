@@ -2,8 +2,7 @@
 
 namespace PHPNomad\Fetch\Interfaces;
 
-
-use PHPNomad\Fetch\Models\Models\FetchPayload;
+use PHPNomad\Fetch\Models\FetchPayload;
 use PHPNomad\Http\Interfaces\Response;
 
 interface FetchStrategy{
