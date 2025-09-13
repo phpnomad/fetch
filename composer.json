@@ -4,6 +4,7 @@
     "type": "library",
     "homepage": "https://github.com/phpnomad/core",
     "readme": "README.md",
+    "version": "1.0.4",
     "license": "MIT",
     "autoload": {
         "psr-4": {
